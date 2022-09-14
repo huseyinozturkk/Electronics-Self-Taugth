@@ -9,7 +9,7 @@
 - [EEVblog #600 - OpAmps Tutorial - What is an Operational Amplifier?](https://www.youtube.com/watch?v=7FYHt5XviKc)
 - [EEVblog #528 - Opamp Input Noise Voltage Tutorial](https://www.youtube.com/watch?v=Y0jkPLuFdnM)
 <!--- Transistor --->
--[EEVblog #748 - How Do Transistors Work?](https://www.youtube.com/watch?v=qUeK7pHe0rI)
+- [EEVblog #748 - How Do Transistors Work?](https://www.youtube.com/watch?v=qUeK7pHe0rI)
 <!--- Diode --->
 - [EEVblog #908 - Zener Diodes](https://www.youtube.com/watch?v=O0ifJ4oVdG4)
 
