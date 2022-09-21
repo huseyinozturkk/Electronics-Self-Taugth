@@ -29,6 +29,7 @@
 ### EMC & EMI
 - [PCB Design for EMI & SI - Phil's Lab #64](https://www.youtube.com/watch?v=VtzPL8wQ8-E)
 - [EEVblog #1176 - 2 Layer vs 4 Layer PCB EMC TESTED!](https://youtu.be/crs_QLuUTyQ)
+- [Introduction - PCB design for good EMC](https://www.youtube.com/watch?v=3FJsfiiYRPA)
 ### Mixed-Signal Design
 - [Mixed-Signal Hardware Design Overview | Audio SoM | STM32 & Altium - Phil's Lab #45](https://youtu.be/2kYJwosAz3Y)
 ### High Speed Design
@@ -43,6 +44,8 @@
 - [Raspberry Pi RP2040 Hardware Design | Altium Designer | JLCPCB - Phil's Lab #28](https://youtu.be/X00Cm5LMNQk)
 - [FPGA/SoC + DDR PCB Design Tips - Phil's Lab #59](https://youtu.be/5vPeSdU22ns)
 - [ESC Hardware Design (1/2) - Phil's Lab #66](https://youtu.be/dJjxcjJOlN0)
+- [RF + MCU PCB Design Review - Phil's Lab #76](https://www.youtube.com/watch?v=71bW_sKZIZw)
+- [Altium STM32 Hardware Design - An Overview in Under 20 Minutes - Phil's Lab #38](https://www.youtube.com/watch?v=H7i2YXUBheE)
 
 
 ## Software
@@ -62,7 +65,7 @@
 ### Filters
 
 ### C/C++
-
+- [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
 ## Courses
 
 ## Youtube Channels
