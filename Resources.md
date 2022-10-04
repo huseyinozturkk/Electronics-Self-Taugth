@@ -62,6 +62,14 @@
 - [Accelerometers and Gyroscopes - Sensor Fusion #1 - Phil's Lab #33](https://www.youtube.com/watch?v=RZd6XDx5VXo)
 - [Complementary Filter - Sensor Fusion #2 - Phil's Lab #34](https://www.youtube.com/watch?v=BUW2OdAtzBw)
 - [Extended Kalman Filter - Sensor Fusion #3 - Phil's Lab #37](https://www.youtube.com/watch?v=hQUkiC5o0JI)
+- [Understanding Sensor Fusion and Tracking, Part 1: What Is Sensor Fusion?](https://youtu.be/6qV3YjFppuc)
+- [Understanding Sensor Fusion and Tracking, Part 2: Fusing a Mag, Accel, & Gyro Estimate](https://www.youtube.com/watch?v=0rlvvYgmTvI)
+- [Understanding Sensor Fusion and Tracking, Part 3: Fusing a GPS and IMU to Estimate Pose](https://youtu.be/hN8dL55rP5I)
+- [Understanding Sensor Fusion and Tracking, Part 4: Tracking a Single Object With an IMM Filter](https://youtu.be/hJG08iWlres)
+- [Understanding Sensor Fusion and Tracking, Part 5: How to Track Multiple Objects at Once](https://youtu.be/IIt1LHIHYc4)
+- [Understanding Sensor Fusion and Tracking, Part 6: What Is Track-Level Fusion?](https://youtu.be/r0THmp0WxJI)
+- []()
+
 ### Filters
 
 ### C/C++
