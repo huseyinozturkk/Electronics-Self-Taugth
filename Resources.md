@@ -30,6 +30,7 @@
 
 ### ESD Protection
 - [ESD Protection Basics - TVS Diode Selection & Routing - Phil's Lab #75](https://www.youtube.com/watch?v=MmG_m4xVNfQ) 
+
 ### EMC & EMI
 - [PCB Design for EMI & SI - Phil's Lab #64](https://www.youtube.com/watch?v=VtzPL8wQ8-E)
 - [EEVblog #1176 - 2 Layer vs 4 Layer PCB EMC TESTED!](https://youtu.be/crs_QLuUTyQ)
@@ -46,11 +47,14 @@
 
 ### Mixed-Signal Design
 - [Mixed-Signal Hardware Design Overview | Audio SoM | STM32 & Altium - Phil's Lab #45](https://youtu.be/2kYJwosAz3Y)
+
 ### High Speed Design
 - [High-Speed PCB Design Tips - Phil's Lab #25](https://www.youtube.com/watch?v=VRJI0X-6yTg)
 - [USB High Speed Routing (ULPI, Delay Tuning) - Phil's Lab #67](https://youtu.be/wQ37NxSeP48)
+
 ### RF Design
 - [Practical RF Hardware and PCB Design Tips - Phil's Lab #19](https://youtu.be/_Hfzq1QES-Q)
+
 ### Example PCB Designs
 - [KiCad STM32 + RF + USB Hardware Design - Phil's Lab #5](https://www.youtube.com/watch?v=14_jh3nLSsU&t=3s)
 - [KiCad STM32 + USB + Buck Converter PCB Design and JLCPCB Assembly (Update) - Phil's Lab #11](https://www.youtube.com/watch?v=C7-8nUU6e3E&list=PLXSyc11qLa1b9VA7nw8-DiLRXVhZ2iUN2)
@@ -72,6 +76,7 @@
 - []()
 - []()
 - []()
+
 ### Sensor Fusion
 - [Accelerometers and Gyroscopes - Sensor Fusion #1 - Phil's Lab #33](https://www.youtube.com/watch?v=RZd6XDx5VXo)
 - [Complementary Filter - Sensor Fusion #2 - Phil's Lab #34](https://www.youtube.com/watch?v=BUW2OdAtzBw)
