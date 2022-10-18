@@ -1,4 +1,5 @@
 # Topics
+
 ## Hardware
 
 ### General
@@ -22,14 +23,27 @@
 - [What is The Best VIA Placement for Decoupling Capacitors?](https://www.youtube.com/watch?v=XumNc480qYo)
 - [What Every PCB Designer Should Know - Crosstalk Explained (with Eric Bogatin)](https://www.youtube.com/watch?v=EF7SxgcDfCo)
 - [What Every PCB Designer Should Know - Return Current Path (with Eric Bogatin)](https://www.youtube.com/watch?v=icRzEZF3eZo)
+
 ### Power Design
 - [Switching Regulator PCB Design - Phil's Lab #60](https://youtu.be/AmfLhT5SntE)
+- [Choosing the Correct Capacitor Type for Your Power Supply](https://www.youtube.com/watch?v=IMa_zj7YYvU)
+
 ### ESD Protection
 - [ESD Protection Basics - TVS Diode Selection & Routing - Phil's Lab #75](https://www.youtube.com/watch?v=MmG_m4xVNfQ) 
 ### EMC & EMI
 - [PCB Design for EMI & SI - Phil's Lab #64](https://www.youtube.com/watch?v=VtzPL8wQ8-E)
 - [EEVblog #1176 - 2 Layer vs 4 Layer PCB EMC TESTED!](https://youtu.be/crs_QLuUTyQ)
 - [Introduction - PCB design for good EMC](https://www.youtube.com/watch?v=3FJsfiiYRPA)
+- [EMC Filter Design Part 1: Understanding Common Mode and Differential Mode Noise](https://www.youtube.com/watch?v=JQkNqY0I02Y)
+- [EMC Filter Design Part 2: EMC Filter Structure and Operation](https://www.youtube.com/watch?v=_-1267i1ILM)
+- [EMC Filter Design Part 3: Input Filter Stability and Middlebrook](https://www.youtube.com/watch?v=zPcMNpyavMw)
+- [EMC Filter Design Part 4: Differential Mode EMC Filter Design Down to Component Level](https://www.youtube.com/watch?v=6cvu3FazuNU)
+- [EMC Filter Design Part 5: Differential Mode Filter Damping Component Selection](https://www.youtube.com/watch?v=k3gCiL6SFSE)
+- [EMC Filter Design Part 6: Common Mode Choke Operation](https://www.youtube.com/watch?v=cxPAGWTiNSc)
+- [EMC Filter Design Part 7: Common Mode Choke Measurement](https://www.youtube.com/watch?v=ONbGT35G6jo)
+- [EMC Filter Design Part 8: EMC Common Mode Filter Design and Component Selection](https://www.youtube.com/watch?v=UOCsqNtRL74)
+- [EMC Filter Design Part 9: Finalising our Filter Design by Adding the Pi Capacitor](https://www.youtube.com/watch?v=8M8B8GytW78)
+
 ### Mixed-Signal Design
 - [Mixed-Signal Hardware Design Overview | Audio SoM | STM32 & Altium - Phil's Lab #45](https://youtu.be/2kYJwosAz3Y)
 ### High Speed Design
@@ -74,7 +88,15 @@
 
 ### C/C++
 - [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
+
+### Embedded Linux
+- [Gömülü Linux Sistemleri](https://www.ucanlinux.com/)
+
 ## Courses
+
+### Automotive
+- [Master CAN protocol completely from Scratch (CAN + CAN-FD)](https://www.udemy.com/course/master-can-protocol-completely-from-scratch/)
+- [Autosar Architecture (Learn from Scratch with Demo)](https://www.udemy.com/course/autosar-architecture/)
 
 ## Youtube Channels
 - [Altium Academy](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw)
@@ -93,3 +115,4 @@
 - [FastBitLab](http://fastbitlab.com/)
 - [projects by kiwih](https://01001000.xyz/)
 - [eziya76](https://blog.naver.com/eziya76)
+- [Özen Özkaya](http://ozenozkaya.com/blog/)
