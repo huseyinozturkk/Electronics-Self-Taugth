@@ -93,6 +93,10 @@
 
 ### C/C++
 - [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
+- [C Language Tutorial Videos | Mr. Srinivas](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
+- [Static Memory vs Dynamic Memory | C Language Tutorial](https://www.youtube.com/watch?v=7icNeEZ8PDo)
+- [Pass by Value | Pass by Reference | Pass by Address in C++ Programming](https://www.youtube.com/watch?v=-NS3KfrSvU8)
+
 
 ### Embedded Linux
 - [Gömülü Linux Sistemleri](https://www.ucanlinux.com/)
