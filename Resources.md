@@ -73,8 +73,8 @@
 - [Aviyonik yazılım nedir? Nasıl geliştirilir? - Özgür Aytekin](https://www.youtube.com/watch?v=mqS-VJasz-s&t=616s)
 - [Gerçek Zamanlı İşletim Sistemlerine Giriş - Özgür Aytekin](https://www.youtube.com/watch?v=n9plPNjK_uE)
 - [DO-178C Tackling Safety & Security for Avionics Software | Parasoft](https://www.youtube.com/watch?v=EcXu5U6wyUg&list=WL&index=9&t=1s)
-- []()
-- []()
+- [Mastering Microcontroller with Embedded Driver Development](https://www.youtube.com/playlist?list=PLmxJ7z2bemWphAKn0nZsVdWAm9SIewjIv)
+- [Intro to Bare Metal Programming with AVR Tiny2](https://www.youtube.com/playlist?list=PLtQdQmNK_0DQ8KGcZ1BOPv-3RDPvtqJ1H)
 - []()
 
 ### Sensor Fusion
