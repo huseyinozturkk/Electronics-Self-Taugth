@@ -141,8 +141,9 @@
 
 ## Blogs
 - [ControllersTech](https://controllerstech.com/)
-- [RobertFeranecBlog](https://welldoneblog.fedevel.com/)
+- [Robert Feranec](https://welldoneblog.fedevel.com/)
 - [Coşkun Taşdemir Blog](https://coskuntasdemir.com/)
+- [Fırat Deveci](https://www.firatdeveci.com/)
 - [vivonomicon](https://vivonomicon.com/)
 - [FastBitLab](http://fastbitlab.com/)
 - [projects by kiwih](https://01001000.xyz/)
