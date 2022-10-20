@@ -5,6 +5,7 @@
 ### General
 - [EEVblog #859 - Bypass Capacitor Tutorial](https://www.youtube.com/watch?v=BcJ6UdDx1vg)
 - [EEVBlog #1116 - How to Remove Power Supply Ripple](https://www.youtube.com/watch?v=wopmEyZKnYo)
+
 ### Circuit Theory
 <!--- Opamp --->
 - [EEVblog #600 - OpAmps Tutorial - What is an Operational Amplifier?](https://www.youtube.com/watch?v=7FYHt5XviKc)
@@ -75,7 +76,8 @@
 - [DO-178C Tackling Safety & Security for Avionics Software | Parasoft](https://www.youtube.com/watch?v=EcXu5U6wyUg&list=WL&index=9&t=1s)
 - [Mastering Microcontroller with Embedded Driver Development](https://www.youtube.com/playlist?list=PLmxJ7z2bemWphAKn0nZsVdWAm9SIewjIv)
 - [Intro to Bare Metal Programming with AVR Tiny2](https://www.youtube.com/playlist?list=PLtQdQmNK_0DQ8KGcZ1BOPv-3RDPvtqJ1H)
-- []()
+- [Gerçek Zamanlı Gömülü Sistem ve Yazılım Tasarımı’nda ASELSAN Yaklaşımı](https://www.emo.org.tr/ekler/5a2816e72eb9bbf_ek.pdf)
+- [State Machines](https://www.youtube.com/playlist?list=PLPW8O6W-1chxym7TgIPV9k5E8YJtSBToI)
 
 ### Sensor Fusion
 - [Accelerometers and Gyroscopes - Sensor Fusion #1 - Phil's Lab #33](https://www.youtube.com/watch?v=RZd6XDx5VXo)
@@ -90,6 +92,7 @@
 - []()
 
 ### Filters
+- []()
 
 ### C/C++
 - [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
@@ -107,6 +110,26 @@
 - [Master CAN protocol completely from Scratch (CAN + CAN-FD)](https://www.udemy.com/course/master-can-protocol-completely-from-scratch/)
 - [Autosar Architecture (Learn from Scratch with Demo)](https://www.udemy.com/course/autosar-architecture/)
 
+### Embedded Systems
+- [Mastering Microcontroller and Embedded Driver Development (MCU1)](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/)
+- [Mastering Microcontroller: Timers, PWM, CAN, Low Power(MCU2)](https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/)
+- [Embedded Systems Programming on ARM Cortex-M3/M4 Processor](https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/)
+- [Embedded Systems Bare-Metal Programming Ground Up™ (STM32)](https://www.udemy.com/course/embedded-systems-bare-metal-programming/)
+- [Advanced Embedded Systems Bare-Metal Programming Ground Up™](https://www.udemy.com/course/embedded-systems-advance-bare-metal-programming/)
+- [Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging](https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/)
+- [FreeRTOS From Ground Up™ on ARM Processors (REVISED)](https://www.udemy.com/course/freertos-on-arm-processors/)
+- [ARM Cortex M Microcontroller DMA Programming Demystified](https://www.udemy.com/course/microcontroller-dma-programming-fundamentals-to-advanced/)
+- [STM32Fx Microcontroller Custom Bootloader Development](https://www.udemy.com/course/stm32f4-arm-cortex-mx-custom-bootloader-development/)
+- []()
+
+### PCB Design and Electronics
+- [Crash Course Electronics and PCB Design](https://www.udemy.com/course/crash-course-electronics-and-pcb-design/)
+- [Learn to Design Your Own Boards](https://www.udemy.com/course/learn-to-design-your-own-boards/)
+- [Learn KiCad V6 and STM32 Hardware Design](https://www.udemy.com/course/learn-kicad-v6-and-stm32-hardware-design/)
+- [Altium Designer ile Donanım Tasarım Mühendisliği](https://www.udemy.com/course/altium-designer-donanim-tasarim/)
+- [Advanced Hardware and PCB Design Masterclass 2022 -EsteemPCB](https://www.udemy.com/course/advanced-hardware-design-course/)
+- [PCB Design Tips And Tricks Using Altium Designer -EsteemPCB](https://www.udemy.com/course/pcb-design-tips-and-tricks/)
+
 ## Youtube Channels
 - [Altium Academy](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw)
 - [Phil’s Lab](https://www.youtube.com/c/PhilS94)
@@ -114,7 +137,7 @@
 - [Controllers Tech](https://www.youtube.com/c/ControllersTech)
 - [Robert Feranec](https://www.youtube.com/c/RobertFeranec)
 - [All Electronics Channel](https://www.youtube.com/c/AllElectronicsChannel)
-- []()
+- [Brian Douglas](https://www.youtube.com/user/ControlLectures)
 
 ## Blogs
 - [ControllersTech](https://controllerstech.com/)
