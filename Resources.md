@@ -130,6 +130,10 @@
 - [Advanced Hardware and PCB Design Masterclass 2022 -EsteemPCB](https://www.udemy.com/course/advanced-hardware-design-course/)
 - [PCB Design Tips And Tricks Using Altium Designer -EsteemPCB](https://www.udemy.com/course/pcb-design-tips-and-tricks/)
 
+## Computer Stuff
+- [The ARM University Program, ARM Architecture Fundamentals](https://www.youtube.com/watch?v=7LqPJGnBPMM)
+- [A tour of the ARM architecture and its Linux support](https://www.youtube.com/watch?v=NNol7fRGo2E)
+
 ## Youtube Channels
 - [Altium Academy](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw)
 - [Phil’s Lab](https://www.youtube.com/c/PhilS94)
