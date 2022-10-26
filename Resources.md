@@ -16,6 +16,7 @@
 - [EEVblog #908 - Zener Diodes](https://www.youtube.com/watch?v=O0ifJ4oVdG4)
 
 ### General PCB Design
+- [Signal Integrity for PCB Designers](http://referencedesigner.com/books/si/Signal-Integrity-Introduction.php)
 - [PCB & Schematic Tip: Net Ties - Phil's Lab #69](https://youtu.be/MgbO0iysi6I)
 - [PCB Stack-Up and Build-Up - Phil's Lab #56](https://youtu.be/QAOEtfvCaMw)
 - [Schematic Tips & Tricks - Phil's Lab #62](https://youtu.be/ywBPm7TMpfk)
@@ -80,6 +81,9 @@
 - [State Machines](https://www.youtube.com/playlist?list=PLPW8O6W-1chxym7TgIPV9k5E8YJtSBToI)
 - [Design Patterns for Embedded Systems in C](https://www.youtube.com/watch?v=S0ODfxXe2UU)
 - [STM32 ARM Development - DMA & ADC Discussion](https://www.youtube.com/watch?v=eUA2TRX1NTc&lc=)
+- [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/introduction)
+- [Arm Keil Learning platform for Cortex-M microcontroller users](https://www2.keil.com/mdk5/learn)
+- [MCU on Eclipse](https://mcuoneclipse.com/)
 
 ### Sensor Fusion
 - [Accelerometers and Gyroscopes - Sensor Fusion #1 - Phil's Lab #33](https://www.youtube.com/watch?v=RZd6XDx5VXo)
@@ -122,7 +126,7 @@
 - [FreeRTOS From Ground Up™ on ARM Processors (REVISED)](https://www.udemy.com/course/freertos-on-arm-processors/)
 - [ARM Cortex M Microcontroller DMA Programming Demystified](https://www.udemy.com/course/microcontroller-dma-programming-fundamentals-to-advanced/)
 - [STM32Fx Microcontroller Custom Bootloader Development](https://www.udemy.com/course/stm32f4-arm-cortex-mx-custom-bootloader-development/)
-- []()
+- [STM MCU Training](https://www.st.com/content/st_com/en/support/learning/stm32-education/mcu-training-courses.html)
 
 ### PCB Design and Electronics
 - [Crash Course Electronics and PCB Design](https://www.udemy.com/course/crash-course-electronics-and-pcb-design/)
@@ -155,4 +159,3 @@
 - [FastBitLab](http://fastbitlab.com/)
 - [projects by kiwih](https://01001000.xyz/)
 - [eziya76](https://blog.naver.com/eziya76)
-- [Özen Özkaya](http://ozenozkaya.com/blog/)
