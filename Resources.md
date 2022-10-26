@@ -78,6 +78,8 @@
 - [Intro to Bare Metal Programming with AVR Tiny2](https://www.youtube.com/playlist?list=PLtQdQmNK_0DQ8KGcZ1BOPv-3RDPvtqJ1H)
 - [Gerçek Zamanlı Gömülü Sistem ve Yazılım Tasarımı’nda ASELSAN Yaklaşımı](https://www.emo.org.tr/ekler/5a2816e72eb9bbf_ek.pdf)
 - [State Machines](https://www.youtube.com/playlist?list=PLPW8O6W-1chxym7TgIPV9k5E8YJtSBToI)
+- [Design Patterns for Embedded Systems in C](https://www.youtube.com/watch?v=S0ODfxXe2UU)
+- [STM32 ARM Development - DMA & ADC Discussion](https://www.youtube.com/watch?v=eUA2TRX1NTc&lc=)
 
 ### Sensor Fusion
 - [Accelerometers and Gyroscopes - Sensor Fusion #1 - Phil's Lab #33](https://www.youtube.com/watch?v=RZd6XDx5VXo)
@@ -133,6 +135,7 @@
 ## Computer Stuff
 - [The ARM University Program, ARM Architecture Fundamentals](https://www.youtube.com/watch?v=7LqPJGnBPMM)
 - [A tour of the ARM architecture and its Linux support](https://www.youtube.com/watch?v=NNol7fRGo2E)
+- [Nedir bu RISC-V? Silikon dünyasının Linux'u mu? ARM vs RISC-V | RISC-V Gerçekten Ücretsiz CPU mu?](https://www.youtube.com/watch?v=sA7YEvpxFEM)
 
 ## Youtube Channels
 - [Altium Academy](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw)
