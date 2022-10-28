@@ -161,3 +161,4 @@
 - [FastBitLab](http://fastbitlab.com/)
 - [projects by kiwih](https://01001000.xyz/)
 - [eziya76](https://blog.naver.com/eziya76)
+- [Bruce Powel Douglass](https://www.bruce-douglass.com/)
